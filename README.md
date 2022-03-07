@@ -35,6 +35,6 @@ Si accedemos al modo cerca, podemos movernos entre los planetas con las teclas U
 <p><b> Referencias </b></p>
 <p>Guion de prácticas</p>
 <p>Documentación de processing</p>
-
+<p>https://free3d.com/es/modelo-3d/australian-cattle-dog-v1--993323.html</p>
 <br>
 <p><b> Autor: Rebeca Suárez Ojeda </b></p>
